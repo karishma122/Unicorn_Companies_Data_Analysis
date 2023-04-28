@@ -4,7 +4,7 @@ This project analyzes a dataset of unicorn companies, or private companies with 
 
 # Project Description
 
-The goal of this project is to perform exploratory data analysis on the dataset and create visualizations that show the top 20 countries with the highest company valuations, as well as a global visualization map. The analysis was conducted using various libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Express.
+The goal of this project is to perform exploratory data analysis on the dataset and create visualizations that show the top 20 countries with the highest company valuations, as well as a global visualization map. The analysis was conducted using various libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Plotly.
 
 # Dataset
 
